@@ -25,6 +25,3 @@ Modify the `test_url` in the script and run:
 ```sh
 python phishing_detector.py
 ```
-
-## License
-This project is open-source and free to use.
